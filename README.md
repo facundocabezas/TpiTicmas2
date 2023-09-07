@@ -1,5 +1,5 @@
 # TpiTicmas2
-mobile app development
+Desarrollo de Aplicaciones Moviles
 
 Una única pantalla (sin importar el layout elegido) con
 2 cuadros de textos (EditText) 
